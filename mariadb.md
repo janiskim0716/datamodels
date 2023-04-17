@@ -1,1 +1,2 @@
-
+MariaDB is an open-source database management system that is compatible with MySQL. Its website is https://mariadb.org/.
+MariaDB uses a relational data model and uses a client-server model similar to MySQL. To connect to MariaDB using JDBC, you need to download and install the MariaDB JDBC driver, which is a Java library that implements the JDBC API for MariaDB. 

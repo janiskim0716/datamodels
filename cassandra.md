@@ -1,1 +1,1 @@
-
+Apache Cassandra is an open-source NoSQL database management system. The official website for Apache Cassandra is https://cassandra.apache.org/. Cassandra is designed to run on hardware, and the database can be scaled horizontally by adding more nodes to the cluster. In order to access Cassandra with Java, you need the DataStax Java Driver.

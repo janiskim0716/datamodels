@@ -1,1 +1,3 @@
-
+Versant Object Database
+Versant Object Database is a high-performance database management system designed for complex and mission-critical applications. Its official website is https://www.actian.com/data-management/versant-object-database/.
+Versant Object Database is based on the Versant Object Model (VOM), which provides a rich set of features for modeling and manipulating complex data structures. Versant Object Databases can be deployed in a variety of host models, including single-server, client-server, and distributed architectures.  To access Versant Object Database with Java, you can use the Versant Object Database Java API.

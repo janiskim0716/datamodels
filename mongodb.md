@@ -1,1 +1,1 @@
-
+MongoDB is a document-oriented NoSQL database and is found on https://www.mongodb.com/. MongoDB can be deployed on-premises, in the cloud, or in a hybrid environment. Java applications can access MongoDB using the MongoDB Java Driver, which is a Java-based driver that provides a simple way to connect to a MongoDB database.

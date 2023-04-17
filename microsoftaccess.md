@@ -1,1 +1,1 @@
-
+Microsoft Access is a commercial relational database management system (RDBMS) developed by Microsoft and is found on https://www.microsoft.com/en-us/microsoft-365/access. Developed and owned by Microsoft, it is not open-source software. It is primarily a desktop-based application where the database is stored locally. However, it also can be used in client-server model. In order to access it with Java, you need to use JDBC(Java Database Connectivity), which is a standard Java API.

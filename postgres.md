@@ -1,1 +1,1 @@
-
+PostgreSQL is a popular open-source relational database management system (RDBMS) that uses and extends the SQL language. PostgreSQL can be deployed on various platforms, including Windows, Linux, macOS, and as well as on cloud platforms like AWS, Google Cloud, and Microsoft Azure. Its official website for PostgreSQL is: https://www.postgresql.org/. To access Postgres with Java, you need to used JDBC API.

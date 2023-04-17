@@ -1,1 +1,1 @@
-
+Informix is a relational database management system developed by IBM, and is found on https://www.ibm.com/products/informix. Informix can be hosted on various platforms, including Windows, Linux, Unix, and IBM mainframes. In order to access informix with Java, you need to use the informix JDBC driver.

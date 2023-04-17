@@ -1,1 +1,1 @@
-
+Berkeley DB is a family of embedded key-value database libraries that provide scalable high-performance data management services to applications. Berekeley DB is open source, and its website is: https://www.oracle.com/database/technologies/related/berkeleydb.html. In order to access Berkeley DB from Java, you need to download and install the Berkeley DB Java Edition library, which is available for download from the Oracle website.
